@@ -3,7 +3,6 @@
 **Overview:**
 The project involves analyzing the business data of Holman Motorcars, a company that caters to the luxury car market and meets customers' demands. The primary objective of this project is to assist the company and its stakeholders by converting their business data into useful insights. To achieve this goal, I created 3 comprehensive dashboards presenting the insights in a clear and understandable way. The entire project was completed using Power BI, a Business Intelligence tool that enables people to transform data into actionable insights, as well as stunning visualizations of insights and dashboards.
 
-![Power-BI-Desktop-Feature-image]
 
 
 ## Acknowledgements
